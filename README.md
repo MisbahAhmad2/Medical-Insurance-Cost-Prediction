@@ -2,7 +2,7 @@
 
 A simple web app that estimates annual medical insurance charges using a Multiple Linear Regression model, trained on the [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) (1,338 records: age, sex, BMI, children, smoker status, region).
 
-**Live demo:** _add your GitHub Pages link here after deploying_
+**Live demo:** https://misbahahmad2.github.io/Medical-Insurance-Cost-Prediction/
 
 ## How it works
 
